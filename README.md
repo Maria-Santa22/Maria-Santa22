@@ -15,7 +15,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 
 ---
 
-## 💻 Tecnologias & Skills
+## 💻 Tecnologias 
 
 - **Linguagens:** PHP, Python, Java, JavaScript
 - **Banco de Dados:** MySQLi
@@ -23,10 +23,10 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 
 ---
 
-## 🌟 Projetos favoritos
+## 🌟 Projetos 
 
-- [**Luminous Gym**](#) 
-- [**Spell Alley**](#) 
+- **Luminous Gym**
+- **Spell Alley**
 
 ---
 
