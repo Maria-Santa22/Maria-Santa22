@@ -33,7 +33,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 ## 🎯 Objetivos
 
 - Me aprofundar em **Java**
-- Trabalhar na área de **back-end**
+- Atuar na área de **back-end**
 - Compartilhar conhecimento e aprender cada vez mais!
 - Conhecer outros países 
 
