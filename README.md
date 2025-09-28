@@ -1,16 +1,52 @@
-## Hi there 👋
+# Oie! Eu sou a Maria 👋
 
-<!--
-**Maria-Santa22/Maria-Santa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, atualmente cursando o técnico integrado ao ensino médio de Informática para Internet no IFAC.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 👩‍💻 Sonho em cursar **Ciência da Computação** ou **Sistemas de Informação**
+- ☕ Apaixonada por PHP
+- 🎬 Amante de filmes de terror
+- 🍣 Apaixonada por sushi
+- 🎵 Não vivo sem música
+- 📺 Maratonista de séries de plantão
+
+---
+
+## 💻 Tecnologias & Skills
+
+- **Linguagens:** PHP, Python, Java, JavaScript
+- **Banco de Dados:** MySQLi
+- **Robótica:** Lego EV3 Mindstorm
+
+---
+
+## 🌟 Projetos favoritos
+
+- [**Luminous Gym**](#) 
+- [**Spell Alley**](#) 
+
+---
+
+## 🎯 Objetivos
+
+- Me aprofundar em **Java**
+- Trabalhar na área de **back-end**
+- Compartilhar conhecimento e aprender cada vez mais!
+
+---
+
+**Curiosidades:**  
+- Estou sempre querendo adquirir mais conhecimentos  
+- Amo aprender coisas novas
+- Sou dorameira
+- Fã do Stray Kids e Lana Del Rey
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maria-Santa22&show_icons=true&theme=dracula" alt="Maria-Santa22 status"/>
+</div>
+
