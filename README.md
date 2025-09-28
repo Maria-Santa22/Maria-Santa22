@@ -39,7 +39,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 
 ---
 
-**Curiosidades:**  
+## Curiosidades 
 - Estou sempre querendo adquirir mais conhecimentos  
 - Amo aprender coisas novas
 - Sou dorameira
