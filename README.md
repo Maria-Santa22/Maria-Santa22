@@ -35,6 +35,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 - Me aprofundar em **Java**
 - Trabalhar na área de **back-end**
 - Compartilhar conhecimento e aprender cada vez mais!
+- Conhecer outros países 
 
 ---
 
@@ -42,7 +43,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 - Estou sempre querendo adquirir mais conhecimentos  
 - Amo aprender coisas novas
 - Sou dorameira
-- Fã do Stray Kids e Lana Del Rey
+- Viciada em cafeína 
 
 ---
 
