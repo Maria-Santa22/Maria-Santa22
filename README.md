@@ -27,6 +27,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 
 - **Luminous Gym**
 - **Spell Alley**
+- **The Trigono Million**
 
 ---
 
