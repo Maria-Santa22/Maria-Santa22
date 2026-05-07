@@ -18,7 +18,7 @@ Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, at
 ## 💻 Tecnologias 
 
 - **Linguagens:** PHP, Python, Java
-- **Banco de Dados:** MySQL
+- **Ferramentas:** MySQLi, git, github
 - **Robótica:** Lego EV3 Mindstorm
 
 ---
