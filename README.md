@@ -1,6 +1,6 @@
 # Oie! Eu sou a Maria 👋
 
-Sou **futura desenvolvedora back-end** e estudante apaixonada por tecnologia, atualmente cursando o técnico integrado ao ensino médio de Informática para Internet no IFAC.
+Sou uma estudante apaixonada por tecnologia, atualmente cursando o técnico integrado ao ensino médio de Informática para Internet no IFAC.
 
 ---
 
