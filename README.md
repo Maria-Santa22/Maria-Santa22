@@ -7,11 +7,11 @@ Sou uma estudante apaixonada por tecnologia, atualmente cursando o técnico inte
 ## 🚀 Sobre mim
 
 - 👩‍💻 Sonho em cursar **Ciência da Computação** ou **Sistemas de Informação**
-- ☕ Apaixonada por PHP
-- 🎬 Amante de filmes de terror
+-  Apaixonada por PHP
+-  Amante de filmes de terror
 - 🍣 Apaixonada por sushi
-- 🎵 Não vivo sem música
-- 📺 Maratonista de séries de plantão
+-  Não vivo sem música
+- Corinthiana Roxa
 
 ---
 
