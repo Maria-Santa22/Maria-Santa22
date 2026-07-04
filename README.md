@@ -9,7 +9,7 @@ Sou uma estudante apaixonada por tecnologia, atualmente cursando o técnico inte
 - 👩‍💻 Sonho em cursar **Ciência da Computação** ou **Sistemas de Informação**
 -  Apaixonada por PHP
 -  Amante de filmes de terror
-- 🍣 Apaixonada por sushi
+-  Apaixonada por sushi
 -  Não vivo sem música
 - Corinthiana Roxa
 
