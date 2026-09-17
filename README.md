@@ -17,7 +17,8 @@ Sou uma estudante apaixonada por tecnologia, atualmente cursando o técnico inte
 
 ## 💻 Tecnologias 
 
-- **Linguagens:** PHP, Python, Java
+- **Linguagens:** PHP, Python, Java, Html
+- **Front-end / Frameworks CSS:** Tailwind CSS, Bootstrap
 - **Ferramentas:** MySQLi, Git, GitHub
 - **Robótica:** Lego EV3 Mindstorm
 
