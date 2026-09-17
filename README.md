@@ -80,11 +80,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maria-Santa22&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de Maria" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-Santa22&theme=dracula&hide_border=true" alt="Streak de commits" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Santa22&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
+<
