@@ -28,6 +28,7 @@ Sou uma estudante apaixonada por tecnologia, atualmente cursando o técnico inte
 - **Luminous Gym**
 - **Spell Alley**
 - **The Trigono Million**
+- **Sistema de gerenciamento de estoques (SGE)**
 
 ---
 
